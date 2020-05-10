@@ -15,9 +15,9 @@ For input you will be given a large number of images, for about half of them, we
 <div>
 <h1><b>📁 Files</b></h1>
 <p>
-train.tar.gz - (5000 samples) Tar File containing all the training images, and associated labels
-test-images.tar.gz - (5001 samples) Tar file containing all the test images
-sample_submission.csv - A sample submission file (with random predictions) to demonstrate the expected file structure by the evaluation setup.
+  <b>train.tar.gz</b> - (5000 samples) Tar File containing all the training images, and associated labels</br>
+<b>test-images.tar.gz</b> - (5001 samples) Tar file containing all the test images</br>
+<b>sample_submission.csv</b> - A sample submission file (with random predictions) to demonstrate the expected file structure by the evaluation setup.
 </p>
 </div>
 
