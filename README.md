@@ -14,11 +14,11 @@ For input you will be given a large number of images, for about half of them, we
 
 <div>
 <h1><b>💾 Dataset</b><h1>
-<p>
+
 The training dataset consists of 5000 images of size 512x512 with 3 channels each (for RGB). The associated labels is a single continuous variables :
 xRot : Orientation of the Cube, in degrees, along an arbitrarily chosen axis (a number between 0 and 360). The axis around which this value is measured, is consitent across the whole of the training and the test set.
 The test dataset consists of 5001 images of size 512x512 with 3 channels each (for RGB). The goal of the task is to predict the xRot value of the Rubik's Cube in these test images.
-</p>
+
 </div>
 <div>
 <h1><b>📁 Files</b></h1>
